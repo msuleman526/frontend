@@ -53,3 +53,6 @@ src/cast/dev_const.ts
 
 # test coverage
 test/coverage/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
